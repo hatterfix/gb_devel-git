@@ -74,4 +74,4 @@ git checkout -b newbranch
  - Изначально работаем в новой ветке - pract2
  - Все изображения кладём в дирректорию img
  - Ниже пример с добавлением img от git :
-![git](.img/git.png "Лого git")
+![git](img/git.png "Лого git")
