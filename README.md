@@ -81,3 +81,5 @@ git checkout -b newbranch
 Например, исключим *.jpg
 
 ![github](img/github.jpg "Лого github")
+
+При пуше в удалённый репозиторий github.jpg ожидаемо не попал в удалённый репо
