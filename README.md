@@ -69,3 +69,6 @@ git checkout -b newbranch
 
 ```
 
+
+
+Демонстрация конфликта
