@@ -80,4 +80,4 @@ git checkout -b newbranch
 
 Например, исключим *.jpg
 
-![github](img/github.png "Лого github")
+![github](img/github.jpg "Лого github")
