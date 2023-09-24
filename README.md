@@ -83,3 +83,17 @@ git checkout -b newbranch
 ![github](img/github.jpg "Лого github")
 
 При пуше в удалённый репозиторий github.jpg ожидаемо не попал в удалённый репо
+
+
+- Для демонстрации конфликта создал ветку conflict
+- Результат слияния confict в main ниже
+
+![git](img/conflict.png "Демонстрация конфликта:")
+
+
+ - Чтобы отменить merge в ветке main используем команду:
+
+```sh
+git merge --abort
+
+```
